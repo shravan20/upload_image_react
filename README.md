@@ -1,4 +1,4 @@
-This is my PoC on uploading image using React library and <form>
+PoC on uploading image using React library and `<form>`
   
 
 
